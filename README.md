@@ -1,3 +1,7 @@
+This is a very tiny vue 3 application I set up to showcase a PostHog bug.
+
+Link to the issue: https://github.com/PostHog/posthog-js/issues/1766
+
 # Steps to reproduce
 
 The current application will render a false statement, showing how `onFeatureFlags` isn't working correctly. (its callback isn't triggering)
